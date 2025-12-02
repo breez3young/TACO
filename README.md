@@ -7,7 +7,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](about:blank)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://vla-anti-exploration.github.io/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
-[![Demo](https://img.shields.io/badge/Demo-Video-orange)](https://vla-anti-exploration.github.io/#:~:text=%2B-,TACO,-Using%20TACO%20for)
+[![Demo](https://img.shields.io/badge/Demo-Video-orange)](https://vla-anti-exploration.github.io/#:~:text=A%20comparison%20of%20key%20moments%20while%20grasping%20a%20marker)
 [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/rhodes-team-teleai/vla-tts-taco)
 </div>
 
